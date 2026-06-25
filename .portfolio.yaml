@@ -1,6 +1,6 @@
 title:
-  en: UPV/ETSINF Thesis Template (Simplified)
-  es: Plantilla TFG/TFM UPV/ETSINF (Simplificada)
+  en: Latex Template (Simplified)
+  es: Plantilla LaTeX (Simplificada)
 finished: finished
 descriptionShort:
   en: Simplified version of the UPV/ETSINF LaTeX thesis template. Git-ready, logically organized into chapters/images/bibliography folders. For Bachelor's (TFG) and Master's (TFM) theses. Includes .gitignore for clean version control.
