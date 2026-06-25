@@ -17,7 +17,11 @@ screenShoots:
   - readme-images/example-section.png
   - readme-images/tables-plots.png
   - readme-images/thumbnail.png
+keywords:
+  en: [LaTeX thesis template, TFG TFM, UPV ETSINF, bachelor thesis, master thesis, academic template, Valencia university, simplified thesis, LaTeX document, Git-ready]
+  es: [plantilla LaTeX tesis, TFG TFM, UPV ETSINF, trabajo fin de grado, trabajo fin de máster, plantilla académica, universidad de Valencia, tesis simplificada, documento LaTeX, preparado para Git]
 slug: Latex-Small-Template
 order: 10
 featured: false
+
 
