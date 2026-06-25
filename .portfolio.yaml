@@ -10,7 +10,7 @@ descriptionLong:
     A simplified and reorganized version of the official LaTeX thesis template from the School of Informatics (ETSINF) at Universitat Politècnica de València (UPV). This adaptation preserves the core styling required for compliance with university formatting rules while providing a cleaner, Git-friendly structure with logical folders for chapters, images, and bibliography. Features include a pre-configured .gitignore for LaTeX build artifacts, template functionality (instantiable via GitHub's 'Use this template'), and compatibility with modern IDEs like VS Code with LaTeX Workshop for synctex support.
   es: |
     Una versión simplificada y reorganizada de la plantilla LaTeX oficial para TFG/TFM de la Escuela Técnica Superior de Ingeniería Informática (ETSINF) de la Universitat Politècnica de València (UPV). Esta adaptación conserva el estilo requerido por la normativa universitaria mientras ofrece una estructura más limpia y preparada para Git, con carpetas lógicas para capítulos, imágenes y bibliografía. Incluye .gitignore preconfigurado, funcionalidad de plantilla (instanciable desde GitHub), y compatibilidad con IDEs modernos como VS Code con LaTeX Workshop para soporte synctex.
-technologies: [git]
+technologies: [latex]
 tags: [other]
 logo: readme-images/example-section.png
 screenShoots:
@@ -26,6 +26,7 @@ keywords:
 slug: Latex-Small-Template
 order: 10
 featured: false
+
 
 
 
