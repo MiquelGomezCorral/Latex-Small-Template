@@ -13,10 +13,6 @@ descriptionLong:
 technologies: [latex]
 tags: [other]
 logo: readme-images/example-section.png
-screenShoots:
-  - readme-images/example-section.png
-  - readme-images/tables-plots.png
-  - readme-images/thumbnail.png
 date:
   en: Jan 2026
   es: Ene 2026
